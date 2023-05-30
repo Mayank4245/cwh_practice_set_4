@@ -1,6 +1,6 @@
 // Quiz 1. Write a js program to store name , phone no. , marks of a student using object.
 // let ram={
-//     phone : '9058225555',
+//     phone : '955555555',
 //     marks : "Hindi : 10 , English : 15 , Maths :20"
 // }
 // console.log(ram['marks'])
