@@ -41,4 +41,17 @@
 // console.log(dict.By_Catch)
 // console.log(dict.Blert)
 // console.log(dict.Comp)
-console.log(complete)
+console.log("complete")
+let a = 30;
+let b = 4;
+// console.log(a+b)
+// console.log(a-b)
+// console.log(a*b)
+// console.log(a**b)
+// console.log(a/b)
+// console.log(a%b)
+console.log(a++)
+console.log(a)
+
+console.log(a--)
+console.log(a)
