@@ -105,5 +105,24 @@ const prompt = require ("prompt-sync")();
 // console.log("The Total Number of Lower Character in", a ,"is",lower)
 // console.log("The Total Number of Special Character in", a ,"is",special)
 // console.log("The Total Number of digit Character in", a ,"is",digit)
+// Ques.18 Take input and tell postive or negative
+// while (true){
+//     let num = prompt("Enter Your Number : ")
+//     if(num>0){
+//         console.log("You Enter "+ num + " Which is Positive")
+//     }
+//     else if(num==0){
+//         console.log("You Enter "+ num + " Which is Neither Positive Nor Negative.")
+//     }
+//     else if(num<0){
+//         console.log("You Enter "+ num + " Which is Negative")
+//     }
+
+//     let restart = prompt("Do You want To Enter Number again press (y) For Yes (n) For No.")
+//     if (restart == 'n' ){
+//         break;
+//     }
+
+// }
 
 

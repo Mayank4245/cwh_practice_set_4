@@ -1,0 +1,36 @@
+const prompt = require ("prompt-sync")();
+//  Practice Set 4
+
+// Que.1 Suggest a raw Output.(console.log("har\"".length))
+// let string = "har\""
+// console.log(string.length)
+// // Ans. 4
+
+// Que.2 Explore includes,start with & end with functions of string. 
+
+// Includes tells us the word are present in another string or not
+// let str = "Hello My Name is Mayank";
+// let word = "iss"
+// console.log(`The word u enter is "${word}" ${str.includes(word)? `is`:`is not`} present in the sentence `);
+
+// Start with tells us the given character is start with in given string outcomes come only in "True" "False"
+// console.log(str.startsWith('ello',1))
+
+// End with tells us the given character is end with in given string outcomes come only in "True" "False"
+// console.log(str.endsWith('e',2))
+
+// Que.3 W.A.P To convert a given string in lower case.
+// let str = "HelloWORLD"
+// console.log(str.toLowerCase())
+
+// Que.4 by string filter amount ("The amount is 1000").
+// let str = "The amount is 1000";
+// amount = str.slice(14);
+// console.log(amount);
+
+// Que.5 Try to change 4 character of a given string. will you do it?
+// let str = "hello world";
+// str[3]= "r";
+// console.log(str)
+
+// Ans. No Beacuse strings are immutable they does n't change.
